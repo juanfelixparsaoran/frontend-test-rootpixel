@@ -1,0 +1,33 @@
+.post-detail .detail{
+    margin : 100px;
+    text-align: left;
+}
+
+.detail .title{
+    font-size: 40px;
+}
+
+.detail .body{
+    font-size: 15px;
+}
+
+.detail .comment{
+    /* margin-top: 20px; */
+}
+
+.body-comment{
+    background-color: #babebf;
+}
+
+.create-post{
+    text-align: left;
+    margin: 100px;
+}
+
+#body-post{
+    height: 200px;
+}
+
+.post-desc{
+    margin:15px;
+}

@@ -1,0 +1,22 @@
+textarea{
+    width: 100%;
+}
+
+#cstm-comment{
+    background-color: #373737;
+    color: white;
+    border-radius: 10px;
+}
+
+.guest-content{
+    text-align: left;
+    margin: 100px;
+}
+
+.post-section{
+    cursor: pointer;
+}
+
+.post-section:hover{
+    background-color: #a7b4c9;
+}
