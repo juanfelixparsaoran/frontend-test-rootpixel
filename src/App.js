@@ -24,6 +24,7 @@ class App extends React.Component {
           <Route path='/guest/post' component={SessionChecker(PostDetailGuest)}/>
           <Route path='/guest/home' component={SessionChecker(GuestHome)}/>
           <Route path='/admin/createpost' component={SessionChecker(CreatePost)}/>
+          <Route exact path='/' component={Register}/>
         </Switch>
       </div>
     </Router>)
