@@ -9,5 +9,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### Features
 - Login
-- Register
+- Register (for guest, creating admin directly through api)
 - 2 Role : - Admin for publishing post and manage it, and guest for enjoying and commenting post
